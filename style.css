@@ -1,5 +1,15 @@
 #monMenu {
 
-    display: flex    ;
+    display: flex;
     gap: 20px;
+}
+
+#moniD {
+    color: brown;
+}
+
+.MAclass {
+
+    color: blue;
+
 }
