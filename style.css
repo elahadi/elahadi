@@ -6,10 +6,24 @@
 
 #moniD {
     color: brown;
+    min-height: 500px;
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    width: 100%;
+}
+
+body{
+    width: 100%;
 }
 
 .MAclass {
 
     color: blue;
+    min-height: 500px;
 
 }
